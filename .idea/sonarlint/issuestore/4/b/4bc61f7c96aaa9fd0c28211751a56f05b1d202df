@@ -1,0 +1,12 @@
+
+>
+java:S16040"(Make this anonymous inner class a lambda(å³²
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷…ëäıÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(÷…ëäıÿÿÿÿ
+_
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+P
+java:S1161>":Add the "@Override" annotation above this method signature(—¶Ğé
+U
+java:S1161B":Add the "@Override" annotation above this method signature(™ÅšÊûÿÿÿÿ

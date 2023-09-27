@@ -1,0 +1,19 @@
+
+m
+java:S1104"RMake roomId a static final constant or non-public and provide accessors if needed.(„À—ôıÿÿÿÿ
+l
+java:S1104"WMake whitePlayer a static final constant or non-public and provide accessors if needed.(‡€¹A
+m
+java:S1104"WMake blackPlayer a static final constant or non-public and provide accessors if needed.(¿¯¨ë
+t
+java:S1104"YMake whitePlayerId a static final constant or non-public and provide accessors if needed.(Í¿×Áıÿÿÿÿ
+o
+java:S1104""YMake blackPlayerId a static final constant or non-public and provide accessors if needed.(ûìĞ
+l
+java:S1104."QMake board a static final constant or non-public and provide accessors if needed.(È¿¾Àÿÿÿÿÿ
+f
+java:S11042"PMake game a static final constant or non-public and provide accessors if needed.(›Ñ­
+m
+java:S11046"RMake gameId a static final constant or non-public and provide accessors if needed.(Æ¥†ùÿÿÿÿ
+\
+java:S1126Q"AReplace this if-then-else statement by a single return statement.(óÒ±Ìûÿÿÿÿ

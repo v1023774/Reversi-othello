@@ -1,0 +1,13 @@
+
+t	java:S135ı"YReduce the total number of break and continue statements in this loop to use at most one.(Øäã¾ùÿÿÿÿ
+K
+java:S1066Î"/Merge this if statement with the enclosing one.(éá€ûúÿÿÿÿ
+}
+java:S1488©"fImmediately return this expression instead of assigning it to the temporary variable "stabilityValue".(ë¬İ¬
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯å´
+i
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(œëÂĞ
+n
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(—ç‹õıÿÿÿÿ
+n
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ÑóâÖÿÿÿÿÿ

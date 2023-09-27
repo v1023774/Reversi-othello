@@ -1,0 +1,26 @@
+
+~
+java:S1488à"bImmediately return this expression instead of assigning it to the temporary variable "totalScore".(ÄÆí‡þÿÿÿÿ
+]
+java:S2184u"BCast one of the operands of this addition operation to a "double".(æ‘ñ¨üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯å´
+`
+java:S2259V"JA "NullPointerException" could be thrown; "selectedMove" is nullable here.(ÝäôÚ
+7
+java:S1170"!Make this final field static too.(Ô‘’Ÿ
+T
+java:S1854r">Remove this useless assignment to local variable "visitCount".(‰ˆ†³
+E
+java:S1481r"/Remove this unused "visitCount" local variable.(‰ˆ†³
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(»ÈçÈüÿÿÿÿ
+V
+java:S1854Ø"?Remove this useless assignment to local variable "whiteWeight".(ÁÊ‹ª
+G
+java:S1481Ø"0Remove this unused "whiteWeight" local variable.(ÁÊ‹ª
+A
+java:S1068",Remove this unused "maxDepth" private field.(ÀÇ’!
+I
+java:S1068"3Remove this unused "timeLimitMillis" private field.(Ùø‘Â
+â
+java:S6541‡"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 78 to 64, Complexity from 25 to 14, Nesting Level from 4 to 2, Number of Variables from 34 to 6.(»ÈçÈüÿÿÿÿ

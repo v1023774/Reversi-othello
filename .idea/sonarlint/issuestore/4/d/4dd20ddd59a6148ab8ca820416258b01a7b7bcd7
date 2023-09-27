@@ -1,0 +1,28 @@
+
+f	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÅ„Ë
+k	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¾ÎÂøÿÿÿÿ
+l	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ŸŠ‘şÿÿÿÿ
+l	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şå°íùÿÿÿÿ
+g	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‰¸
+l	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿºèØûÿÿÿÿ
+f	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ˆç
+?
+java:S1604¨"(Make this anonymous inner class a lambda(¦ªĞ«
+@
+java:S1948"*Make "botBlack" transient or serializable.(òæ€”
+E
+java:S1948 "*Make "botWhite" transient or serializable.(¤¬€ùÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÓÜ°úÿÿÿÿ
+h
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 79 to the 15 allowed.(©ßü
+d
+java:S3252'"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+S
+java:S3252*"=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(®Ğ–
+[
+java:S3252"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(¨ˆƒ
+M
+java:S2696ù"6Make the enclosing method "static" or remove this set.(¢¬ôï
+Q
+java:S1481•"5Remove this unused "buttonNormalIcon" local variable.(¥Ü¿Àùÿÿÿÿ

@@ -1,0 +1,20 @@
+
+l	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ŒÄÕûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢µÖŸ
+o	java:S116"URename this field "BOARD_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¼˜Ëüÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(Ù¼˜Ëüÿÿÿÿ
+H
+java:S1948 "-Make "boardFromDB" transient or serializable.(ãæˆ±ýÿÿÿÿ
+=
+java:S1948!"'Make "moves" transient or serializable.(ÁÏ›¢
+@
+java:S1948""*Make "database" transient or serializable.(ß£­±
+m
+java:S3776n"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(©º–þøÿÿÿÿ
+P
+java:S1117t":Rename "gameId" which hides the field declared at line 17.(çí…Ô
+Y
+java:S1126"BReplace this if-then-else statement by a single method invocation.(Ž¶ßã
+Y
+java:S1126¥"BReplace this if-then-else statement by a single method invocation.(ªö†‡

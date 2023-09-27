@@ -1,0 +1,21 @@
+
+t	java:S135†"YReduce the total number of break and continue statements in this loop to use at most one.(Øäã¾ùÿÿÿÿ
+K
+java:S1066Ö"/Merge this if statement with the enclosing one.(éá€ûúÿÿÿÿ
+}
+java:S1488±"fImmediately return this expression instead of assigning it to the temporary variable "stabilityValue".(ë¬İ¬
+]
+java:S2184~"BCast one of the operands of this addition operation to a "double".(íÌø‡şÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯å´
+7
+java:S1170"!Make this final field static too.(Ô‘’Ÿ
+i
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(œëÂĞ
+n
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(—ç‹õıÿÿÿÿ
+n
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ÑóâÖÿÿÿÿÿ
+A
+java:S1068",Remove this unused "maxDepth" private field.(ÀÇ’!
+I
+java:S1068"3Remove this unused "timeLimitMillis" private field.(Ùø‘Â

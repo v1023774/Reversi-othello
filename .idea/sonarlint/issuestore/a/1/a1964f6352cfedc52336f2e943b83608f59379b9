@@ -1,0 +1,27 @@
+
+i
+java:S1192;"SDefine a constant instead of duplicating this literal "resources/game.wav" 3 times.(ŸÌò
+k	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ï½§ûÿÿÿÿ
+k	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÃó¥ıÿÿÿÿ
+k	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìßèúûÿÿÿÿ
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸”Õ ûÿÿÿÿ
+f	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ğ©
+f	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¸£ 
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ë¬Ô
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿºèØûÿÿÿÿ
+A
+java:S3010;"+Remove this assignment of "newMusicPlayer".(ŸÌò
+A
+java:S3010]"+Remove this assignment of "newMusicPlayer".(ŸÌò
+A
+java:S3010}"+Remove this assignment of "newMusicPlayer".(ŸÌò
+d
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+S
+java:S3252"=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(®Ğ–
+L
+java:S2696;"6Make the enclosing method "static" or remove this set.(ŸÌò
+L
+java:S2696]"6Make the enclosing method "static" or remove this set.(ŸÌò
+L
+java:S2696}"6Make the enclosing method "static" or remove this set.(ŸÌò

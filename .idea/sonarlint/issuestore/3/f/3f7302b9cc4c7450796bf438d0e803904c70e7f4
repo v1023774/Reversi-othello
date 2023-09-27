@@ -1,0 +1,6 @@
+
+n	java:S135©"YReduce the total number of break and continue statements in this loop to use at most one.(±Øßm
+i
+java:S6204€"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+i
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ú“Ÿ

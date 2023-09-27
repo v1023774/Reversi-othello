@@ -1,0 +1,97 @@
+
+a
+java:S1192l"FDefine a constant instead of duplicating this literal "Black" 5 times.(ÔÀİÿøÿÿÿÿ
+b
+java:S1192,"GDefine a constant instead of duplicating this literal "Arial" 11 times.(„åïÃøÿÿÿÿ
+a
+java:S1192l"FDefine a constant instead of duplicating this literal "White" 5 times.(ÔÀİÿøÿÿÿÿ
+K
+java:S1066—"/Merge this if statement with the enclosing one.(ÛàÌÎùÿÿÿÿ
+l	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íá¤ìüÿÿÿÿ
+?
+java:S1604¦"(Make this anonymous inner class a lambda(¡‡öÁ
+D
+java:S1604À"(Make this anonymous inner class a lambda(»óÑüÿÿÿÿ
+?
+java:S1604Ì"(Make this anonymous inner class a lambda(şñ­
+?
+java:S1604ê"(Make this anonymous inner class a lambda(¼äÎŸ
+D
+java:S1604²"(Make this anonymous inner class a lambda(Õ•Õúÿÿÿÿ
+?
+java:S1604Ñ"(Make this anonymous inner class a lambda(¬ñŸ
+?
+java:S1604Ç"(Make this anonymous inner class a lambda(ÉãÃ®
+?
+java:S1604ƒ"(Make this anonymous inner class a lambda(ÉãÃ®
+o	java:S116"URename this field "BOARD_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¼˜Ëüÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(Ù¼˜Ëüÿÿÿÿ
+B
+java:S1948"'Make "board" transient or serializable.(åÌ–®şÿÿÿÿ
+J
+java:S1948"/Make "currentPlayer" transient or serializable.(ğƒÎŸÿÿÿÿÿ
+D
+java:S1948")Make "player1" transient or serializable.(üˆ–ñüÿÿÿÿ
+?
+java:S1948")Make "player2" transient or serializable.(ÚØ°ı
+d
+java:S3252Q"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+I
+java:S1481s"3Remove this unused "shotCustomFont" local variable.(òÖ¯
+R	java:S125‡"<This block of commented-out lines of code should be removed.(ş— Ì
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(È•¨™
+Q
+java:S1161":Add the "@Override" annotation above this method signature(—¶Ğé
+V
+java:S1161¢":Add the "@Override" annotation above this method signature(™ÅšÊûÿÿÿÿ
+
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ
+Q
+java:S1161¸":Add the "@Override" annotation above this method signature(—¶Ğé
+V
+java:S1161¼":Add the "@Override" annotation above this method signature(™ÅšÊûÿÿÿÿ
+Q
+java:S1161à":Add the "@Override" annotation above this method signature(—¶Ğé
+V
+java:S1161ä":Add the "@Override" annotation above this method signature(™ÅšÊûÿÿÿÿ
+Q
+java:S1161ş":Add the "@Override" annotation above this method signature(—¶Ğé
+V
+java:S1161‚":Add the "@Override" annotation above this method signature(™ÅšÊûÿÿÿÿ
+]
+java:S3252¨"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¯âÅ²øÿÿÿÿ
+]
+java:S1854µ"FRemove this useless assignment to local variable "updatedPlayerNames".(Ã¶é»
+N
+java:S1481µ"7Remove this unused "updatedPlayerNames" local variable.(Ã¶é»
+Q
+java:S1161Ã":Add the "@Override" annotation above this method signature(—¶Ğé
+V
+java:S1161Ç":Add the "@Override" annotation above this method signature(™ÅšÊûÿÿÿÿ
+Q
+java:S1161á":Add the "@Override" annotation above this method signature(—¶Ğé
+V
+java:S1161å":Add the "@Override" annotation above this method signature(™ÅšÊûÿÿÿÿ
+e
+java:S3252÷"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(·Ûà»
+`
+java:S3358‘"DExtract this nested ternary operation into an independent statement.(‘ÉÛğûÿÿÿÿ
+L
+java:S2446¿"0"notify" may not wake up the appropriate thread.(„Îëêıÿÿÿÿ
+n
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ËŒ•Üûÿÿÿÿ
+K
+java:S1481Ê"/Remove this unused "moveNumber" local variable.(øãÎ“üÿÿÿÿ
+z
+java:S2142Ğ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ
+z
+java:S2142Û"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ
+i
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(û¹Õ˜
+z
+java:S2142£"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ
+>
+java:S3398±"'Move this method into "ButtonListener".(®©¡•
