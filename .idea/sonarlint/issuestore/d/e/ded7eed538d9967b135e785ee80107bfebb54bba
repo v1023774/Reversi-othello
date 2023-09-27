@@ -1,0 +1,10 @@
+
+n
+java:S1104"XMake numberOfTurn a static final constant or non-public and provide accessors if needed.(éî€
+|
+java:S1104"aMake nextTurnOfPlayerColor a static final constant or non-public and provide accessors if needed.(­‚çÇøÿÿÿÿ
+E	java:S106L"+Replace this use of System.out by a logger.(Ã˜Åùÿÿÿÿ
+E	java:S106M"+Replace this use of System.out by a logger.(º¶øıÿÿÿÿ
+E	java:S106P"+Replace this use of System.out by a logger.(±á™†ÿÿÿÿÿ
+E	java:S106R"+Replace this use of System.out by a logger.(°¬ÉÒùÿÿÿÿ
+E	java:S106T"+Replace this use of System.out by a logger.(“ïşûÿÿÿÿ

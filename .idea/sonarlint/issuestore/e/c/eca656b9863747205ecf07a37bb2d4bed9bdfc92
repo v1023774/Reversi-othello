@@ -1,0 +1,38 @@
+
+f	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÅ„Ë
+k	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¾ÎÂøÿÿÿÿ
+l	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ŸŠ‘şÿÿÿÿ
+l	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şå°íùÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßµ—¿úÿÿÿÿ
+g	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡î¥¾
+g	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‰¸
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿºèØûÿÿÿÿ
+?
+java:S1604§"(Make this anonymous inner class a lambda(¦ªĞ«
+o	java:S116"URename this field "BOARD_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¼˜Ëüÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(Ù¼˜Ëüÿÿÿÿ
+B
+java:S1948"'Make "board" transient or serializable.(åÌ–®şÿÿÿÿ
+:
+java:S1948$"%Make "bot" transient or serializable.(úåÑ?
+d
+java:S3252,"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+S
+java:S3252/"=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(®Ğ–
+[
+java:S3252œ"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(¨ˆƒ
+
+java:S1186¹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ
+
+java:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ
+M
+java:S2696©"6Make the enclosing method "static" or remove this set.(¢¬ôï
+L
+java:S1481ê"6Remove this unused "buttonsBackground" local variable.(Í’Ú=
+Q
+java:S1481ì"5Remove this unused "buttonNormalIcon" local variable.(¥Ü¿Àùÿÿÿÿ
+n
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¼ Òşüÿÿÿÿ
+C
+java:S3398Û",Move this method into "BoardButtonListener".(—ËÂè

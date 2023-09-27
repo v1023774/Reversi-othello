@@ -1,0 +1,20 @@
+
+t	java:S135ï"YReduce the total number of break and continue statements in this loop to use at most one.(Øäã¾ùÿÿÿÿ
+K
+java:S1066¿"/Merge this if statement with the enclosing one.(éá€ûúÿÿÿÿ
+}
+java:S1488š"fImmediately return this expression instead of assigning it to the temporary variable "stabilityValue".(ë¬İ¬
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯å´
+t
+java:S2142M"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+\	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(ÁäéÔøÿÿÿÿ
+n
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Óë†ÿûÿÿÿÿ
+i
+java:S3776à"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(œëÂĞ
+n
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(—ç‹õıÿÿÿÿ
+n
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ÑóâÖÿÿÿÿÿ
+J
+java:S1068}"4Remove this unused "maximizingPlayer" private field.(ÁÀ…ş

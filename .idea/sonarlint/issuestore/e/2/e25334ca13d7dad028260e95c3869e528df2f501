@@ -1,0 +1,28 @@
+
+f	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÅ„Ë
+k	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¾ÎÂøÿÿÿÿ
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ŸŠ‘şÿÿÿÿ
+l	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şå°íùÿÿÿÿ
+l	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßµ—¿úÿÿÿÿ
+g	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡î¥¾
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‰¸
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿºèØûÿÿÿÿ
+?
+java:S1604…"(Make this anonymous inner class a lambda(¦ªĞ«
+o	java:S116 "URename this field "BOARD_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¼˜Ëüÿÿÿÿ
+<
+java:S1170 "!Make this final field static too.(Ù¼˜Ëüÿÿÿÿ
+B
+java:S1948""'Make "board" transient or serializable.(åÌ–®şÿÿÿÿ
+d
+java:S32525"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+S
+java:S32528"=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(®Ğ–
+Z
+java:S3252z"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(¨ˆƒ
+M
+java:S2696«"6Make the enclosing method "static" or remove this set.(¢¬ôï
+Q
+java:S1481Æ"5Remove this unused "buttonNormalIcon" local variable.(¥Ü¿Àùÿÿÿÿ
+C
+java:S3398œ",Move this method into "BoardButtonListener".(—ËÂè

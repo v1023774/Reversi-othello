@@ -1,0 +1,8 @@
+rootProject.name = 'Reversi-othello'
+include 'localgame'
+include 'gamelogic'
+include 'database'
+include 'client'
+include 'server'
+include 'ui'
+
